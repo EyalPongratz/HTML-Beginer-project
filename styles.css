@@ -1,0 +1,40 @@
+header{
+    background-color: blanchedalmond;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+header h1{
+    color: green;
+    border: 8px solid red;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 30px;
+}
+.images{
+    text-align: center;
+    margin: 80px o;
+}
+
+.images li{
+    display: inline-block;
+    width 40%;  
+}
+.images li img{
+    max-width: 100%;
+    margin: 20px 5%;
+    white-space: nowrap;
+}
+.join{
+    background: aliceblue;
+    text-align: center;
+    padding: 60px 20px;
+    color: #4b4b4b;
+}
+.join h2{
+    font-size: 56px;
+}
